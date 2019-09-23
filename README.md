@@ -2,7 +2,7 @@
 #### การติดตั้ง
 
 1) เอาไปใส่ไว้ใน folder resource
-2) แก้ esx_status ตามด้านล่างประมาณบันทัดที่ 52
+2) แก้ Esx_status แก้ใน client > main.lua ตามด้านล่างประมาณบันทัดที่ 52
 ```
 	Citizen.CreateThread(function()
 	  while true do
