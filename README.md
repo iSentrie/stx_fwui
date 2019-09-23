@@ -28,6 +28,7 @@ end)
 start stx_fwui
 ```
 4) ลบ cache หากมีปัญหา
+5) ต้องตั้งชื่อ folder เป็น stx_fwui เท่านั้น!!!!
 #### ตัวอย่าง
 ###### https://streamable.com/9mk07
 ###### https://streamable.com/9g0p0
